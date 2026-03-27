@@ -1,0 +1,2 @@
+# MADHAV-E-COMMERCE-SALES-CAPSTONE-PROJECT-EXCEL-SQL-POWER-BI-
+The Madhav E-Commerce Sales Capstone Project is an end-to-end data analytics project that integrates Excel, SQL, and Power BI to analyze e-commerce sales data and generate business insights. This project helps understand sales performance, customer behavior, product performance, and profit analysis through interactive dashboards and SQL queries.
